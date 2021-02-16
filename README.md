@@ -38,7 +38,7 @@ Kotlin Chat App design and implementation android
 
 * here chat with friends can make chat with him by text and send photos
 <p align="center">
-  <img width="200" height="400" src="https://user-images.githubusercontent.com/55749059/108106751-0919f200-7097-11eb-8957-df4bdf7e621b.png">
+  <img width="200" height="400" src="https://user-images.githubusercontent.com/55749059/108107446-eb00c180-7097-11eb-8de4-a1544c4df6c0.png">
 </p>
 
 * Send notification (when send photo to friend make notification to another friend)
