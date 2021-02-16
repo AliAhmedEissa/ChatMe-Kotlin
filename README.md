@@ -43,7 +43,7 @@ Kotlin Chat App design and implementation android
 
 * Send notification (when send photo to friend make notification to another friend)
 <p align="center">
-  <img width="200" height="400" src="(https://user-images.githubusercontent.com/55749059/108107023-59914f80-7097-11eb-9345-91236bd4bcd2.png">
+  <img width="200" height="400" src="https://user-images.githubusercontent.com/55749059/108107326-c278c780-7097-11eb-9a91-53f5034bd50d.png">
 </p>
 
 * Send notification (when send text(letters) to friend make notification to another friend)
